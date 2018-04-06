@@ -1,4 +1,4 @@
-# Building a Microblog Using Node.js & Markdown
+# blog using Node.js & MD
 
 structure and purpose
 
