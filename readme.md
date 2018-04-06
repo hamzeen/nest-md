@@ -1,9 +1,6 @@
-# Building a Microblog Using Node.js, Git and Markdown
+# Building a Microblog Using Node.js & Markdown
 
-Camilo Reyes shows how to write robust, testable code using SOLID principles by building a small but functional microblog with only minimal dependencies.
-
-This code accompanies the SitePoint article:
-https://www.sitepoint.com/build-microblog-node-js-git-markdown
+structure and purpose
 
 ## Requirements
 
@@ -21,7 +18,7 @@ https://www.sitepoint.com/build-microblog-node-js-git-markdown
 
 The MIT License (MIT)
 
-Copyright (c) 2017 SitePoint
+Copyright (c) 2017 Hamzeen. H.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
