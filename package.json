@@ -1,0 +1,13 @@
+{
+  "name": "micro-blog",
+  "private": true,
+  "description": “minimal md blog”,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "marked": "0.3.6"
+  }
+}
